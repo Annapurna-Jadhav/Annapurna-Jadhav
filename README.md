@@ -1,5 +1,15 @@
-<h1 align="center">Hii ,My name is Annapurna Jadhav</h1>
-<h2 align="center">Welcome to my profile</h2>
+<h1 align="center">Hii, My name is Annapurna Jadhav</h1> 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Annapurna-Jadhav&theme=dark&hide_border=false"alt="GitHub Streak"  style="border-color: rgb(71, 75, 78);" /></a>  
+
+
+
+
+
+<p><img align="center" src="https://leetcard.jacoblin.cool/anu_jadhav?animation=false" alt="anu_jadhav" </p>
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -47,6 +57,3 @@
             alt="react" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
             width="40" height="40" /> </a> </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Annapurna-Jadhav&theme=dark&hide_border=false"alt="GitHub Streak"  style="border-color: rgb(126, 134, 141);"/></a>
-
-<p><img src="https://leetcard.jacoblin.cool/anu_jadhav?animation=false" alt="anu_jadhav" </p>
