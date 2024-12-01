@@ -47,7 +47,7 @@
             alt="react" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
             width="40" height="40" /> </a> </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=annapurna-jadhav" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Annapurna-Jadhav&theme=dark&hide_border=false"alt="GitHub Streak"  style="border-color: rgb(211, 219, 226);"/></a>
 
 
 <p><img src="https://leetcard.jacoblin.cool/anu_jadhav?animation=false" alt="anu_jadhav" </p>
