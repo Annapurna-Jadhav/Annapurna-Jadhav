@@ -1,10 +1,9 @@
 <h1 align="center">Hii, My name is Annapurna Jadhav</h1> 
 
-
-
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=Annapurna-Jadhav&theme=dark&hide_border=false" alt="GitHub Streak" style="border-color: rgb(71, 75, 78); display: block; margin: auto;" />
 </a>
+
 
 
 
