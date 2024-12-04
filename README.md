@@ -7,7 +7,7 @@
 
 
 
-<p><img align="center" src="https://leetcard.jacoblin.cool/anu_jadhav?animation=false" alt="anu_jadhav" </p>
+<!--<p><img align="center" src="https://leetcard.jacoblin.cool/anu_jadhav?animation=false" alt="anu_jadhav" </p>-->
 
 
 
