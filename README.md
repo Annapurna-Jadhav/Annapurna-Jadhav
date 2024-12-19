@@ -25,18 +25,18 @@
     <a href="https://linkedin.com/in/Annapurna Jadhav" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="annapurna jadhav" height="30" width="40" /></a>
-    <a href="https://instagram.com/anu__jadhav3" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="anu__jadhav3" height="30" width="40" /></a>
+<!--     <a href="https://instagram.com/anu__jadhav3" target="blank"><img align="center" -->
+<!--             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" -->
+<!--             alt="anu__jadhav3" height="30" width="40" /></a> -->
     <a href="https://medium.com/anu jadhav" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
             alt="anu jadhav" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/anu_jadhav" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="anu_jadhav" height="30" width="40" /></a>
-    <a href="https://www.hackerearth.com/@anu_jadhav" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
-            alt="@anu_jadhav" height="30" width="40" /></a>
+<!--     <a href="https://www.leetcode.com/anu_jadhav" target="blank"><img align="center" -->
+<!--             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" -->
+<!--             alt="anu_jadhav" height="30" width="40" /></a> -->
+<!--     <a href="https://www.hackerearth.com/@anu_jadhav" target="blank"><img align="center" -->
+<!--             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" -->
+<!--             alt="@anu_jadhav" height="30" width="40" /></a> -->
     <a href="https://discord.gg/https://discord.gg/V27KjBWq" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt="https://discord.gg/V27KjBWq" height="30" width="40" /></a>
