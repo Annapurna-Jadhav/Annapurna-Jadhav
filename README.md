@@ -2,7 +2,10 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Annapurna-Jadhav&theme=dark&border_radius=0.3&card_width=500" alt="GitHub Streak" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annapurna-Jadhav&layout=compact)
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=annapurna-jadhav&show_icons=true&locale=en&layout=compact" alt="annapurna-jadhav" /></p>
+
 
 
 
@@ -59,3 +62,8 @@
             alt="react" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
             width="40" height="40" /> </a> </p>
+
+
+
+
+
