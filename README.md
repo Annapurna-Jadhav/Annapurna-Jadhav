@@ -6,7 +6,7 @@
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=annapurna-Jadhav&show_icons=true&locale=en&layout=compact" alt="annapurna-jadhav" /></p>-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annapurna-Jadhav&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annapurna-Jadhav&layout=compact)
 
 
 <!--<p><img align="center" src="https://leetcard.jacoblin.cool/anu_jadhav?animation=false" alt="anu_jadhav" </p>-->
