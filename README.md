@@ -4,7 +4,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Annapurna-Jadhav&show_icons=true&locale=en&layout=compact" alt="annapurna-jadhav" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=annapurna-Jadhav&show_icons=true&locale=en&layout=compact" alt="annapurna-jadhav" /></p>
 
 
 
